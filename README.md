@@ -1,1 +1,1 @@
-# whichlicense
+# WhichLicense
