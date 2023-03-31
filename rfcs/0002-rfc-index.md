@@ -124,7 +124,7 @@ the page, a minimalist header displays the organisation's name on the left-hand
 side, while a link to the raw markdown RFC proposal on GitHub can be found on
 the right-hand side.
 
-WIREFRAME
+![WhichLicense RFC Index Wireframe](https://user-images.githubusercontent.com/55140355/229070658-54e9fdd7-510a-4dd3-a8b4-aa7f715cdce5.png)
 
 To optimise usability, the index layout has been organised into a three-column
 design, as illustrated in Figure 1. The middle column of the index displays the
