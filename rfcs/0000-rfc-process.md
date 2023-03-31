@@ -8,6 +8,8 @@ To facilitate this collaboration and innovation, the WhichLicense organisation h
 
 ## Prior Art
 
+This present section provides a brief overview of the history and origins of the Request for Comments (RFC) process, drawing upon [Heather Flanagan's seminal work, "Fifty Years of RFCs" (RFC 8700)](https://www.rfc-editor.org/rfc/rfc8700.html).
+
 **TODO**: Link to source
 
 The RFC Series is a fundamental document collection encompassing guidance, experimental protocols, informational materials, and internet standards. Its origins date back to 1969 when Steve Crocker published "Host Software," with the original goal being to initiate conversations rather than establish an archival record of a standard or best practice. However, as the community grew, the publication process became more formal, and the purpose shifted to create a canonical source of material published by the RFC Editor and preserve it perpetually.
