@@ -169,21 +169,21 @@ A successful RFC passes through the following stages:
    Group for inclusion in the roadmap.
 5. **Adopted**: The RFC has been accepted, realised and delivered in a release.
 
-The author of a proposal has the ability to advance it from the **Draft** phase
-to the **Published** stage and from the **Published** phase to the **Submitted**
-phase. In addition, the author has the option to revert the proposal from the
-**Candidate** phase to the **Published** phase. It is important to note that the
-champion of an RFC proposal holds the responsibility and authority to move the
-proposal forward from any stage, with the exception of **Adopted** or
-**Rejected**, to the following stage:
+The author of a proposal has the ability to advance it from the _**Draft**_
+phase to the _**Published**_ stage and from the _**Published**_ phase to the
+_**Submitted**_ phase. In addition, the author has the option to revert the
+proposal from the _**Candidate**_ phase to the _**Published**_ phase. It is
+important to note that the champion of an RFC proposal holds the responsibility
+and authority to move the proposal forward from any stage, with the exception of
+_**Adopted**_ or _**Rejected**_, to the following stage:
 
-- **Withdrawn**: Withdrawn by the author or champion from its current stage or
+- _**Withdrawn**_: Withdrawn by the author or champion from its current stage or
   even the roadmap. The proposal may be re-drafted and reintroduced at a later
   date.
 
 The Platform Working Group has the authority to move a proposal from
-**Candidate** to **Adopted**, as well as from **Published**, **Submitted**, or
-**Candidate** to:
+_**Candidate**_ to _**Adopted**_, as well as from _**Published**_,
+_**Submitted**_, or _**Candidate**_ to:
 
 - **Rejected**: The proposal has been deemed unviable for further consideration,
   either due to being unfeasible, unlikely to come to fruition, or of little
@@ -307,10 +307,10 @@ and proactively address potential issues. For example, they can identify areas
 where additional resources are needed and allocate resources to support the
 proposal. This approach helps to ensure that proposals are adequately funded and
 to complete the work required for the RFC process. This model takes inspiration
-from [JEP1](https://openjdk.org/jeps/1) and may require a lifecycle extension to include a "funded" phase.
-During this phase, the project would be judged by a group or area lead to
-determine if it is fully funded. This approach aims to increase efficiency and
-ensure the RFC process runs smoothly.
+from [JEP1](https://openjdk.org/jeps/1) and may require a lifecycle extension to
+include a "funded" phase. During this phase, the project would be judged by a
+group or area lead to determine if it is fully funded. This approach aims to
+increase efficiency and ensure the RFC process runs smoothly.
 
 ## Acknowledgements
 
