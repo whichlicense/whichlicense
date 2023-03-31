@@ -307,7 +307,7 @@ and proactively address potential issues. For example, they can identify areas
 where additional resources are needed and allocate resources to support the
 proposal. This approach helps to ensure that proposals are adequately funded and
 to complete the work required for the RFC process. This model takes inspiration
-from JEP1 and may require a lifecycle extension to include a "funded" phase.
+from [JEP1](https://openjdk.org/jeps/1) and may require a lifecycle extension to include a "funded" phase.
 During this phase, the project would be judged by a group or area lead to
 determine if it is fully funded. This approach aims to increase efficiency and
 ensure the RFC process runs smoothly.
